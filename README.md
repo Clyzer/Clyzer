@@ -9,7 +9,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=380&height=45&lines=https%3A%2F%2Fgithub.com%2FClyzer;Full+Stack+Web+Developer;Amante+de+las+IA;Siempre+actualiz%C3%A1ndome" alt="SVG bienvenida" />
 </p>
 
-<img align="left" src="https://github.com/Clyzer/Clyzer/blob/main/animacion.gif" alt="No se encontro la imagen" width="320" />
+<img align="left" src="https://github.com/Clyzer/Clyzer/blob/master/animacion.gif?raw=true" alt="No se encontro la imagen" width="320" />
 <hr>
 
 ```
@@ -78,8 +78,7 @@ Clyzer@github
 
 ## Estadisticas de Github
 
-Clyzer|
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Estadisticas](https://github-readme-stats.vercel.app/api?username=Clyzer&show_icons=true&theme=algolia&locale=es)              | 
-| ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyzer&layout&langs_count=8&theme=algolia&locale=es)                    | 
-    
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Clyzer&show_icons=true&theme=algolia&locale=es" alt="Estadisticas Github" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clyzer&layout=compact&langs_count=8&theme=algolia&locale=es" alt="Lenguajes Github" />
+</p>
