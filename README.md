@@ -79,6 +79,6 @@ Clyzer@github
 ## Estadisticas de Github
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Clyzer&show_icons=true&theme=algolia&locale=es" alt="Estadisticas Github" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clyzer&layout=compact&langs_count=8&theme=algolia&locale=es" alt="Lenguajes Github" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Clyzer&show_icons=true&theme=algolia&locale=es" alt="Estadisticas Github" width="450"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clyzer&layout=compact&langs_count=8&theme=algolia&locale=es" alt="Lenguajes Github" width="450"/>
 </p>
