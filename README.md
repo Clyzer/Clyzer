@@ -6,7 +6,7 @@
 
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=380&height=45&lines=https%3A%2F%2Fgithub.com%2FClyzer;Full+Stack+Web+Developer;Amante+de+las+IA;Siempre+actualiz%C3%A1ndome" alt="SVG bienvenida" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=380&height=45&lines=https%3A%2F%2Fgithub.com%2FClyzer;Full+Stack+Developer;Amante+de+las+IA;Siempre+actualiz%C3%A1ndome" alt="SVG bienvenida" />
 </p>
 
 <img align="left" src="https://github.com/Clyzer/Clyzer/blob/master/animacion.gif?raw=true" alt="No se encontro la imagen" width="310" />
@@ -15,7 +15,7 @@
 ```
 Clyzer@github
 -------------------------
-💻 Soy un Full Stack Web Developer que aprendio de manera autodidacta
+💻 Soy un Full Stack Developer que aprendio de manera autodidacta
 👨🏽‍💻 Actualmente estoy en busqueda de trabajo en las IT
 📝 Me encantan las IA, GPT-3 cambiara la industria
 🔭 Trabajando en como utilizar las IA narrativas en los videojuegos
