@@ -43,16 +43,16 @@ Clyzer@github
 
 <p>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-20232A?logo=angular&logoColor=red"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react"></a>
     <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-20232A?logo=vue.js"></a>
     <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-20232A?logo=nestjs"></a>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232A?logo=next.js"></a>
     <a href="#"><img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-20232A?logo=nuxt.js"></a>
     <a href="#"><img alt="Fastify" src="https://img.shields.io/badge/Fastify-20232A?logo=fastify"></a>
-    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-20232A.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-20232A.svg?logo=express"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-20232A?logo=tailwindcss"></a>
     <a href="#"><img alt="AntDesign" src="https://img.shields.io/badge/Ant%20Design-20232A?logo=antdesign"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-20232A?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-20232A?logo=bootstrap"></a>
 
 </p>
 
