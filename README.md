@@ -65,8 +65,8 @@ Clyzer@github
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-orange?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2300ED64.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white"></a>
 </p>
 
 ### 💻 Herramientas
