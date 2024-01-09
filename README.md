@@ -42,7 +42,7 @@ Clyzer@github
 ### 🧰 Frameworks y librerias
 
 <p>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-20232A?logo=angular"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-20232A?logo=angular&logoColor=red"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-20232A?logo=vue.js"></a>
     <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-20232A?logo=nestjs"></a>
