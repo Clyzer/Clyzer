@@ -59,8 +59,8 @@ Clyzer@github
 ### 🗄️ Bases de datos y Cloud Hosting
 
 <p>
+    <a href="#"><img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-orange.svg?logo=amazon-aws&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_Web_Services-orange.svg?logo=amazon-aws&logoColor=white"></a>
     <a href="#"><img alt="Google Cloud" src ="https://img.shields.io/badge/Google_Cloud-%23316192.svg?logo=googlecloud&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"></a>
@@ -74,7 +74,7 @@ Clyzer@github
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Opera" src="https://img.shields.io/badge/Opera%20-%23D00000?logo=opera&logoColor=white"></a>
+    <a href="#"><img alt="Edge" src="https://img.shields.io/badge/Edge%20-0089D6?logo=edge&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord%20-%23430098.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
