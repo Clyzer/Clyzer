@@ -35,20 +35,23 @@ Clyzer@github
     <a href="https://github.com/search?q=user%3AClyzer+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AClyzer+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3AClyzer+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=coffeescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AClyzer+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AClyzer+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AClyzer+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AClyzer+is%3Arepo+language%3Ac%2B%2B"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-%23008184.svg?logo=arduino&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AClyzer+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
 ### 🧰 Frameworks y librerias
 
 <p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-1B86F7?logo=opencv&logoColor=white"></a>
-    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js%20-%23000000.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-20232A?logo=angular"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue-20232A?logo=vue.js"></a>
+    <a href="#"><img alt="Nest.js" src="https://img.shields.io/badge/Nest.js-20232A?logo=nestjs"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232A?logo=next.js"></a>
+    <a href="#"><img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-20232A?logo=nuxt.js"></a>
+    <a href="#"><img alt="Fastify" src="https://img.shields.io/badge/Fastify-20232A?logo=fastify"></a>
+    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js%20-%23000000.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-20232A?logo=tailwindcss"></a>
+    <a href="#"><img alt="AntDesign" src="https://img.shields.io/badge/Ant%20Design-20232A?logo=antdesign"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
 
 </p>
@@ -61,6 +64,7 @@ Clyzer@github
     <a href="#"><img alt="Google Cloud" src ="https://img.shields.io/badge/Google_Cloud-%23316192.svg?logo=googlecloud&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-orange?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2300ED64.svg?logo=mongodb&logoColor=white"></a>
 </p>
