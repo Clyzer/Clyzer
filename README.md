@@ -17,7 +17,7 @@ Clyzer@github
 -------------------------
 💻 Soy un Full Stack Developer que aprendio de manera autodidacta
 👨🏽‍💻 Actualmente estoy en busqueda de trabajo en las IT
-📝 Me encantan las IA, GPT-3 cambiara la industria
+📝 Me encantan las IA, GPT-4 cambió la industria
 🔭 Trabajando en como utilizar las IA narrativas en los videojuegos
 🌱 Aprendiendo sobre otras IA increibles como DALL-E 2
 🌟 Lenguajes principales: Java y Javascript
